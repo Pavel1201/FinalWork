@@ -8,6 +8,10 @@ for (int i = 0 ; i < words.Length; i++)
     }
 }
 
+foreach (string i in words1)
+{
+    Console.Write($"{i} ");
+}
 
 
 
